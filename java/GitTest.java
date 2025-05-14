@@ -16,5 +16,6 @@ public class GitTest{
         System.out.println("Press -esc- to exit the insert mode");
         System.out.println("Then type -:wq- to write and quit");
         System.out.println("something different");
+        System.out.println("Branch test");
     }
 }
